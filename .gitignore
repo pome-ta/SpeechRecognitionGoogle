@@ -128,9 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
+.DS_Store
+
 # PyCharm
 .idea/
 
 # my wav file
 audio/
-
+output/
